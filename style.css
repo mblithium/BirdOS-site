@@ -58,8 +58,8 @@
     border: 1px solid;
     padding: 10px;
     background-color: white;
-    margin: 10px -10px;
-    z-index: -2;
+    margin: 8px -10px;
+    z-index: 5;
   }
   
   header nav .dropdownmenu li {
@@ -86,6 +86,7 @@
     animation-name: ease-in;
     animation-duration: 0.5s;
   }
+
   
   header nav a:visited {
     text-decoration: none;
